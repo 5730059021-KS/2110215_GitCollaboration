@@ -18,4 +18,14 @@ public class Shape{
 		
 		
 	}
+
+	public void transition() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void rotate() {
+		// TODO Auto-generated method stub
+		
+	}
 }
